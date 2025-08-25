@@ -1,0 +1,162 @@
+* {
+    height: 100%;
+}
+
+header {
+    height: 680px;
+    margin-bottom: 0px;
+    padding-bottom: 0%;
+}
+
+.head1 {
+    width: 99%;
+    height: 160px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.heading {
+    color: #154979;
+     font-size: 3rem;
+     width: 80%;
+     text-align: center;
+     height: 20px;
+     padding-bottom: 220px;
+}
+
+.section2 {
+    height: 70px;
+    background-color: #154979;
+    
+}
+
+.sec2-data {
+    color: white;
+    font-size: 1.5rem;
+    width: 65%;
+    display: flex;
+    justify-content: space-evenly;
+    overflow: hidden;
+}
+
+
+.sec2-other a:hover {
+    background-color: #0d6efd;
+
+    
+}
+
+.sec2-data a {
+   text-decoration: none;
+   color: white;
+}
+
+#one {
+    background-color: #154979;
+    color: white;
+    font-size: 1.2rem;
+    padding-left: 15px;
+    border-right: none;
+}
+#two {
+    background-color: #154979;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.homelogo {
+    padding-top: 20px;
+}
+
+.sec2-other {
+    text-align: center;
+    padding-top: 20px;
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+
+.section3 {
+   display: flex;
+
+}
+
+.sec3-photo {
+    width: 55%;
+    height: 400px;
+    background-size: cover;
+}
+
+.sec3-content {
+     width: 45%;
+    height: 400px;
+    background-color: #3C6A95;
+    color: white;
+}
+
+.sec3-content p {
+    font-size: 1.5rem;
+    padding-left: 25px;
+}
+
+.sec3-content a {
+    font-size: 1rem;
+    padding-top: 25px;
+    color: white;
+    text-decoration: none;
+}
+
+.section4 {
+    height: 48px;
+    background-color: #212529;
+   
+}
+
+.section4 {
+    color: #ffff00;
+    text-align: center;
+}
+
+button {
+    height: 100px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #154979;
+    color: white;
+    font-size: 1.25rem;
+    border: none;
+}
+
+.section5 {
+    height: 180px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.section6 {
+    height: 20px;
+    background-color: #154979;
+}
+
+.section7 {
+    height: 225px;
+    background-color: #212529;
+    display: flex;
+    color: white;
+    font-size: 1.25rem;
+}
+
+.sec7-one {
+    margin-left: 20px;
+}
+.sec7-two {
+   padding-top: 50px;
+ 
+}
+.sec7-three {
+    margin-left: 750px;
+    text-align: right;
+}
